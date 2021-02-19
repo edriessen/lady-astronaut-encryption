@@ -30,6 +30,6 @@ This would return (if you use the right keyword!) the encrypted line "This is a 
 
 ## Usage
 
-Now the fun part is in using it. You can use it to semi-securely* send a secret message to someone. The only way to decrypt is if the person has the keyword. I personally used it to check the encrypted messages in The Fated Sky, the second novel in The Lady Astronaut series. You can read about it here. 
+Now the fun part is in using it. You can use it to semi-securely* send a secret message to someone. The only way to decrypt is if the person has the keyword. I personally used it to check the encrypted messages in The Fated Sky, the second novel in The Lady Astronaut series. You can read about it [here](http://www.edriessen.com/2021/02/19/reviewing-lady-astronauts-secret-messages/). 
 
 *\*It's probably fairly easy to crack your keyword using some smart programming skills and Natural Language processing.*
