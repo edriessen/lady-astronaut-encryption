@@ -1,8 +1,8 @@
-# The Lady Astronaut Encryption (Caesar Cipher)
+# The Lady Astronaut Encryption (Keyed Caesar Cipher)
 
 This repo contains a Python script that allows you to encrypt and decrypt text using Caesar Cipher. I read about this basic way of encryption in the Lady Astronaut novels by Mary Robinette Kowal. A book about an alternate version of history, where a (big) meteorite strikes earth in the 50ies and the story unfolds from there. If you like alternate history sci-fi, go read the books. 
 
-## Caesar Cipher encryption & decryption
+## Keyed Caesar Cipher encryption & decryption
 
 The code in my repo is probably not the most efficient, but maybe that makes it easier for you to understand the inner workings of the encryption and decryption functions. 
 
